@@ -1,7 +1,7 @@
 ## DONATE – A Zero-Waste Social Donation and Logistics Platform for Food, Clothing, and Recyclables
-# DONATE – Bridging the Gap Between Excess and Need
 
-**DONATE** is a web and mobile platform that bridges the gap between those who have excess (food, materials, resources) and those in need (NGOs, Old Age Homes, Ragpickers, and individuals in need of crowdfunding).  
+DONATE – Bridging the Gap Between Excess and Need
+is a web and mobile platform that bridges the gap between those who have excess (food, materials, resources) and those in need (NGOs, Old Age Homes, Ragpickers, and individuals in need of crowdfunding).  
 The platform enables quick donations, transparent communication, and effective resource distribution.
 
 ---
