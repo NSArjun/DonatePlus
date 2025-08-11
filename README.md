@@ -6,8 +6,6 @@ The platform enables quick donations, transparent communication, and effective r
 
 ---
 
----
-
 ## 🚀 Features
 - **Donate Food** – Separate sections for NGOs/Old Age Homes and Donators.
 - **Donate Resources/Materials** – Clothes, books, electronics, etc., with the same two-way division.
